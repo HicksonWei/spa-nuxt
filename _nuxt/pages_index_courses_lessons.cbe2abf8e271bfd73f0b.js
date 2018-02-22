@@ -1,0 +1,1 @@
+webpackJsonp([7],{"/tid":function(e,i,s){"use strict";Object.defineProperty(i,"__esModule",{value:!0}),i.default=[{id:1,img:"/course1.jpg",name:"Basic Course"},{id:2,img:"/course2.jpg",name:"Advanced Course"},{id:3,img:"/course3.jpg",name:"Extreme Course"}]}});
